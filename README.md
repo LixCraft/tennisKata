@@ -6,7 +6,7 @@ Run the project as a Spring bootApplication.
 You should enter FirstName/LastName of the two player and then starting entering who win the point.  
 Input stop when a winner is determined.  
 
-Exemple :
+# Exemple :  
 2021-08-09 00:24:26.985  INFO 17972 --- [           main] c.o.kata.tennis.TennisApplication        : Started TennisApplication in 4.796 seconds (JVM running for 5.603)  
 2021-08-09 00:24:26.987  INFO 17972 --- [           main] c.o.kata.tennis.TennisApplication        : EXECUTING : command line runner  
 Tennis match begins.  
